@@ -1,0 +1,12 @@
+---
+application: sharedtools
+market: br
+country: br
+single_nat_gateway: true
+inputs:
+  application: sharedtools
+  market: br
+  country: br
+  single_nat_gateway: true
+
+locals: {}

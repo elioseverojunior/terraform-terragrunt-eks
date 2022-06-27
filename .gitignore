@@ -1,0 +1,5 @@
+.terragrunt-cache
+kubeconfig*
+.terraform
+.terraform.lock.hcl
+**/*/terragrunt-debug.tfvars.json
